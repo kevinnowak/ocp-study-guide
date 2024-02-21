@@ -1,4 +1,4 @@
-package com.github.kevinnowak.chp2_operators;
+package com.github.kevinnowak.chp02_operators;
 
 class CastingVariablesVsCastingValues {
 
